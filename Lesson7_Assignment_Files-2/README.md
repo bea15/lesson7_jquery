@@ -13,8 +13,7 @@ Web Application Development
 (For this assignment we built an application that displays the elements containing a recipe’s ingredients and instructions when a user clicks the associated headers.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://bea15.github.io/lesson7_jquery/Lesson7_Assignment_Files-2/)
 
 ### Lessons Learned in the Assignment:
 1. (jQuery removes some of the tedious work from coding JavaScript and also provides a shortcut from some of the complicated parts of writing JavaScript.)
